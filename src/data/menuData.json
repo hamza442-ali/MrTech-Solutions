@@ -1,0 +1,27 @@
+[
+    {
+      "label": "Home",
+      "icon": "home",
+      "path": "/",
+      "submenus": []
+    },
+    {
+      "label": "About",
+      "icon": "info",
+      "path": "/about",
+      "submenus": []
+    },
+    {
+      "label": "Blog",
+      "icon": "newspaper",
+      "path": "/blog",
+      "submenus": []
+    },
+    {
+      "label": "Support",
+      "icon": "question-circle",
+      "path": "/contact",
+      "submenus": []
+    }
+  ]
+  
